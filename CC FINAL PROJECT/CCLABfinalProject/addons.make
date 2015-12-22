@@ -1,0 +1,3 @@
+ofxBoids
+ofxGif-master
+ofxLiquidFun
